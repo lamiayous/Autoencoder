@@ -13,7 +13,7 @@ The image below shows how the image is passed through the encoder.
                                             Encoder
 
 ## Decoder 
-The decoder in it's architecture is the exact mirror image of the encoder as shown below. The decider, as explained above, is fundamentally used for "image recotruction part of the Project.
+The decoder in it's architecture is the exact mirror image of the encoder as shown above. The decoder, as explained above, is fundamentally used for "image recotruction part of the Project.
 
 #Image Reconstruction 
 

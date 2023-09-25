@@ -19,10 +19,10 @@ The decoder in it's architecture is the exact mirror image of the encoder as sho
 
 Below you can see the original input image and the recontructed image.
 
-<p align="center">
+
   <p float="left">
-    <img width="123" alt="orig" src="https://github.com/lamiayous/Autoencoder/assets/124199862/4b7933eb-0259-4086-a181-98f69cb60e25">
-     <img width="124" alt="reconstructed" src="https://github.com/lamiayous/Autoencoder/assets/124199862/4d15b3fd-c0a4-4c32-a07a-5c6e9e64e693">
+    <img width="200" alt="orig" src="https://github.com/lamiayous/Autoencoder/assets/124199862/4b7933eb-0259-4086-a181-98f69cb60e25">
+     <img width="200" alt="reconstructed" src="https://github.com/lamiayous/Autoencoder/assets/124199862/4d15b3fd-c0a4-4c32-a07a-5c6e9e64e693">
   </p>
-<p align="center">
+
 
